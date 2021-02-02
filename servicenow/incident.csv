@@ -1,0 +1,67 @@
+number,short_description,category
+INC0010112,Assessment :  ATF Assessor,Inquiry / Help
+INC0010111,ATF : Test1,Inquiry / Help
+INC0009009,Unable to access the shared folder.,Inquiry / Help
+INC0009005,Email server is down.,Software
+INC0009004,Defect tracking tool is down.,Hardware
+INC0009003,Cannot sign into the company portal app,Inquiry / Help
+INC0009002,My computer is not detecting the headphone device,Hardware
+INC0009001,Unable to post content on a Wiki page,Inquiry / Help
+INC0007002,Need access to the common drive.,Inquiry / Help
+INC0007001,Employee payroll application server is down.,Hardware
+INC0001990,Unable to access the personal details section in payroll portal,Inquiry / Help
+INC0000601,The USB port on my PC stopped working,Hardware
+INC0000060,Unable to connect to email,Inquiry / Help
+INC0000059,Unable to access team file share,Inquiry / Help
+INC0000058,Performance problems with email,Inquiry / Help
+INC0000057,Performance problems with wifi,Inquiry / Help
+INC0000055,SAP Sales app is not accessible,Software
+INC0000054,SAP Materials Management is slow or there is an outage,Software
+INC0000053,The SAP HR application is not accessible,Inquiry / Help
+INC0000052,SAP Financial Accounting application appears to be down,Software
+INC0000051,Manager can't access SAP Controlling application,Software
+INC0000050,Can't access Exchange server - is it down?,Hardware
+INC0000049,Network storage unavailable,Network
+INC0000048,Having problems with Sales Tools performance,Software
+INC0000047,Issue with email,Inquiry / Help
+INC0000046,Can't access SFA software,Software
+INC0000044,Can't log into SAP from my laptop today,Hardware
+INC0000041,My desk phone does not work,Hardware
+INC0000040,JavaScript error on hiring page of corporate website,Inquiry / Help
+INC0000039,Trouble getting to Oregon mail server,Network
+INC0000038,my PDF docs are all locked from editing,Software
+INC0000037,Request for a new service,Inquiry / Help
+INC0000036,Issue with networking,Inquiry / Help
+INC0000035,Reset my password,Inquiry / Help
+INC0000034,Does not look like a backup occurred last night,Software
+INC0000033,File Server is 80% full - Needs upgrade,Inquiry / Help
+INC0000032,EMAIL Server Down Again,Inquiry / Help
+INC0000031,Need help with Remedy. Can we configure UI?,Inquiry / Help
+INC0000030,Lost connection to the wireless network,Hardware
+INC0000029,I can't get my weather report,Inquiry / Help
+INC0000028,My disk is still having issues. Can't delete a file,Inquiry / Help
+INC0000027,Please remove the latest hotfix from my PC,Software
+INC0000026,Seem to have an issue with my hard drive...,Hardware
+INC0000025,Need to add more memory to laptop,Hardware
+INC0000024,Issue with a web page on wiki,Inquiry / Help
+INC0000021,New employee hire,Inquiry / Help
+INC0000020,"I need a replacement iPhone, please",Inquiry / Help
+INC0000019,Can't launch 64-bit Windows 7 virtual machine,Software
+INC0000018,Sales forecast spreadsheet is READ ONLY,Inquiry / Help
+INC0000017,How do I create a sub-folder,Inquiry / Help
+INC0000016,Rain is leaking on main DNS Server,Hardware
+INC0000015,I can't launch my VPN client since the last software update,Software
+INC0000014,Missing my home directory,Inquiry / Help
+INC0000013,EMAIL is slow when an attachment is involved,Inquiry / Help
+INC0000012,Customer didn't receive eFax,Software
+INC0000011,Need new Blackberry set up,Inquiry / Help
+INC0000010,Need Oracle 10GR2 installed,Database
+INC0000009,Reset my password,Inquiry / Help
+INC0000008,Printer in my office is out of toner,Inquiry / Help
+INC0000007,Need access to sales DB for the West,Database
+INC0000006,Hangs when trying to print VISIO document,Software
+INC0000005,CPU load high for over 10 minutes,Hardware
+INC0000004,Forgot email password,Inquiry / Help
+INC0000003,Wireless access is down in my area,Network
+INC0000002,Network file shares access issue,Network
+INC0000001,Can't read email,Network
